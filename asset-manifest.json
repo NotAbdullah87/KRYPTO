@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/KRYPTO/static/css/main.3928ef57.css",
+    "main.js": "/KRYPTO/static/js/main.e87a5cb2.js",
+    "static/js/787.ac12c3a3.chunk.js": "/KRYPTO/static/js/787.ac12c3a3.chunk.js",
+    "static/media/Other 19.png": "/KRYPTO/static/media/Other 19.7b1c10c64437680271d9.png",
+    "static/media/Other 17.png": "/KRYPTO/static/media/Other 17.12f64be0a73b912d87fe.png",
+    "static/media/Other 18.png": "/KRYPTO/static/media/Other 18.e8b8b3b7cfd8bc752011.png",
+    "static/media/Screen Shot 2022-05-09 at 10.28.png": "/KRYPTO/static/media/Screen Shot 2022-05-09 at 10.28.b4260ee593d37a16ebe9.png",
+    "static/media/logo.png": "/KRYPTO/static/media/logo.5de26cde4d301c429249.png",
+    "index.html": "/KRYPTO/index.html",
+    "main.3928ef57.css.map": "/KRYPTO/static/css/main.3928ef57.css.map",
+    "main.e87a5cb2.js.map": "/KRYPTO/static/js/main.e87a5cb2.js.map",
+    "787.ac12c3a3.chunk.js.map": "/KRYPTO/static/js/787.ac12c3a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3928ef57.css",
+    "static/js/main.e87a5cb2.js"
+  ]
+}
